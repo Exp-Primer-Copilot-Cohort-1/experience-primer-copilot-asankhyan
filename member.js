@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
   const member = document.querySelectorAll('.member');
   const memberSkill = document.querySelectorAll('.member-skill');
   const memberSkillList = document.querySelectorAll('.member-skill-list');
