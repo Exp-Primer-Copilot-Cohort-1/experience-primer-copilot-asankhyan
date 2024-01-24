@@ -21,4 +21,4 @@ function skillMember() {
   const memberSkillListLiSpanI14 = document.querySelectorAll('.member-skill-list li span i:nth-child(14)');
   const memberSkillListLiSpanI15 = document.querySelectorAll('.member-skill-list li span i:nth-child(15)');
   const memberSkillListLiSpanI16 = document.querySelectorAll('.member-skill-list li span i:nth-child(16)');
-  const memberSkillListLiSpanI17 = document.querySelectorAll('.member-s
+}
